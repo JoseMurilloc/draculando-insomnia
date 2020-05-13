@@ -1,0 +1,11 @@
+{
+  "name": "theme-dracula",
+  "version": "1.0.0",
+  "description": "Theme to Isomnia REST.",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-dracula",
+    "description": "Somente uma vers'ao de dracula para Isomnia REST."
+  }
+}
