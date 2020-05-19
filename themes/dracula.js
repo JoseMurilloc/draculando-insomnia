@@ -3,7 +3,7 @@ module.exports = {
 	displayName: 'Draculando',
 	theme: {
 		background: {
-			default: '#22212c',
+			default: '#1b1626',
 			success: '#50fa7b',
 			notice: '#f1fa8c',
 			warning: '#ffb86c',
@@ -32,12 +32,12 @@ module.exports = {
 		styles: {
 			sidebar: {
 				background: {
-					default: '#151320'
+					default: '#120f1d'
 				}
 			},
 			dialog: {
 				background: {
-					default: '#22212c'
+					default: '#1b1626'
 				}
 			},
 			paneHeader: {
