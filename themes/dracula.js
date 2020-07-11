@@ -1,9 +1,9 @@
 module.exports = {
-	name: 'draculando',
-	displayName: 'Draculando',
+	name: 'omniPurper',
+	displayName: 'OmniPurper',
 	theme: {
 		background: {
-			default: '#1b1626',
+			default: '#271930',
 			success: '#50fa7b',
 			notice: '#f1fa8c',
 			warning: '#ffb86c',
@@ -12,7 +12,7 @@ module.exports = {
 			info: '#8be9fd'
 		},
 		foreground: {
-			default: '#f8f8f2',
+			default: '#E1E1E6',
 			success: '#f8f8f2',
 			notice: '#f8f8f2',
 			warning: '#f8f8f2',
@@ -21,23 +21,23 @@ module.exports = {
 			info: '#f8f8f2'
 		},
 		highlight: {
-			default: 'rgba(98, 114, 164, .5)',
-			xxs: 'rgba(98, 114, 164, 0.05)',
-			xs: 'rgba(98, 114, 164, 0.1)',
-			sm: 'rgba(98, 114, 164, 0.2)',
-			md: 'rgba(98, 114, 164, 0.4)',
-			lg: 'rgba(98, 114, 164, 0.6)',
-			xl: 'rgba(98, 114, 164, 0.8)'
+			default: 'rgba(167, 129, 201, .5)',
+			xxs: 'rgba(167, 129, 201, 0.05)',
+			xs: 'rgba(167, 129, 201, 0.1)',
+			sm: 'rgba(167, 129, 201, 0.2)',
+			md: 'rgba(167, 129, 201, 0.4)',
+			lg: 'rgba(167, 129, 201, 0.6)',
+			xl: 'rgba(167, 129, 201, 0.8)'
 		},
 		styles: {
 			sidebar: {
 				background: {
-					default: '#120f1d'
+					default: '#271930'
 				}
 			},
 			dialog: {
 				background: {
-					default: '#1b1626'
+					default: '#271930'
 				}
 			},
 			paneHeader: {
