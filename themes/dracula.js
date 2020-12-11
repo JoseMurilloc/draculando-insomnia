@@ -1,9 +1,9 @@
 module.exports = {
-	name: 'omniPurper',
-	displayName: 'OmniPurper',
+	name: 'omni',
+	displayName: 'Omni',
 	theme: {
 		background: {
-			default: '#271930',
+			default: '#181121',
 			success: '#50fa7b',
 			notice: '#f1fa8c',
 			warning: '#ffb86c',
@@ -32,12 +32,12 @@ module.exports = {
 		styles: {
 			sidebar: {
 				background: {
-					default: '#271930'
+					default: '#181121'
 				}
 			},
 			dialog: {
 				background: {
-					default: '#271930'
+					default: '#181121'
 				}
 			},
 			paneHeader: {
