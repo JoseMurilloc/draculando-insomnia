@@ -6,7 +6,7 @@ module.exports = {
 			default: '#181121',
 			success: '#50fa7b',
 			notice: '#f1fa8c',
-			warning: '#ffb86c',
+			warning: '#FDAD58',
 			danger: '#ff5555',
 			surprise: '#bd93f9',
 			info: '#8be9fd'
@@ -44,7 +44,7 @@ module.exports = {
 				background: {
 					success: '#50fa7b',
 					notice: '#f1fa8c',
-					warning: '#ffb86c',
+					warning: '#FDAD58',
 					danger: '#ff5555',
 					surprise: '#bd93f9',
 					info: '#8be9fd'

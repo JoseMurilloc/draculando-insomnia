@@ -1,15 +1,4 @@
-# Dracula for [Insomnia](http://insomnia.rest)
+# Dracula Insomnia REST
 
-> A dark theme for [Insomnia](http://insomnia.rest)
-
-## Install
-
-All instructions can be found at [draculatheme.com/insomnia](https://draculatheme.com/insomnia)
-
-## Team
-
-
-
-## License
-
-[MIT License](./LICENSE)
+<img src="./.github/insomnia.png" />
+<img src="./.github/insomnia-dracula.png" />
